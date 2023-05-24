@@ -1,0 +1,7 @@
+build/
+build_release/
+Testing/
+.cache/
+.clangd/
+.vs/
+.DS_Store
